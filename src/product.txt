@@ -1,0 +1,5 @@
+1,Laptop,125000.00,10
+2,Smartphone,50000.00,20
+3,Tablet,30000.00,15
+4,Smartwatch,15000.00,25
+5,Headphones,5000.00,50
